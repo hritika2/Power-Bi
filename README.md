@@ -1,4 +1,4 @@
-# Power-Bi
+# Plant Co. Dashboard
 
 This repository contains a Power BI dashboard built for a fictional company named Plant Co.. The dashboard provides interactive insights into the company’s key business metrics, including:
 
